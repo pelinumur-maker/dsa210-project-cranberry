@@ -49,7 +49,6 @@ EDA focused on identifying structural differences between AI and Non-AI artists:
 - Outlier analysis
 - Class imbalance inspection
 
-All generated figures are stored in the `figures/` directory.
 
 ---
 
