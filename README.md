@@ -7,9 +7,13 @@
 
 ## Motivation
 
-With the rapid rise of AI tools, producing music has become significantly easier. A growing number of new artists and songs are released on streaming platforms daily, and a considerable portion of these contain AI-generated content.
+AI music generation tools have made it possible for anyone to produce and release music in minutes. And a growing number of artists are doing exactly that.
+The music industry has always been brutally hard to break into. Early traction, listens, followers, algorithmic visibility can make or break a new artist's career. If AI-generated content helps artists game that early stage, it changes what "making it" in music means. If it doesn't, it suggests that audiences can tell the difference, or that platforms are already pushing back.
 
-This project investigates whether artists who use AI-generated music at the start of their careers gain higher early-stage listens compared to artists who don't. Deezer flags albums containing AI-generated content, making it possible to identify and compare these two groups using real streaming data.
+This project investigates whether artists who use AI-generated music at the start of their careers gain higher early-stage listens compared to artists who don't.
+Deezer openly flags albums containing AI-generated content, creating a rare opportunity to study this with real streaming data. Making it possible to explore whether the listeners of artists who start their career with ai generated content, exhibit patterns consistent with bots.
+One of the signs that signal bot behavior being extremely high listen counts accompanied with a low number of listeners.
+
 
 ---
 
